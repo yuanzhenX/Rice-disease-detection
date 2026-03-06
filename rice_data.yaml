@@ -1,0 +1,10 @@
+path: 'C:\Users\17514\PycharmProjects\RiceDiseaseDetection\datasets\RiceDiseaseDataset_yolo_test'
+
+train: images/train
+val: images/valid
+
+
+names:
+  0: Brown_Spot
+  1: Rice_Blast
+  2: Bacterial_Blight

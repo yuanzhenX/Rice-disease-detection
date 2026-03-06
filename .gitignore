@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# YOLO & Weights (模型权重太大，通常不上传，让用户自己训练或下载)
+runs/
+weights/
+*.pt
+!.gitkeep
+
+# Data (数据集原图太大，只保留配置文件)
+datasets/images/
+datasets/labels/
+*.zip
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
