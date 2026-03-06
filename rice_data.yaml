@@ -1,5 +1,7 @@
+# 将该路径替换为你自己的绝对路径
 path: 'C:\Users\17514\PycharmProjects\RiceDiseaseDetection\datasets\RiceDiseaseDataset_yolo_test'
 
+# 数据集下的相对路径
 train: images/train
 val: images/valid
 
